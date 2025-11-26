@@ -30,5 +30,13 @@
 	{
 		"title": "Digital Wallet Membership Badges",
 		"body": "Every SLG you're a member of gives you an Apple Wallet / Google Pay ticket that they can use to be registered as a member / avail of things"
+	},
+	{
+		"title": "The Chase",
+		"body": "Teams of students compete against lecturers (Chasers) in a Chase-style event"
+	},
+	{
+		"title": "Useless Hackathon",
+		"body": "Compete to create something useless. Most useless creation wins!"
 	}
 ]
